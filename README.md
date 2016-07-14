@@ -1,4 +1,18 @@
-Requirements for running this Python notebook:
+# A succinct introduction to LSTMs
+## Machine Learning Research Group Tea Talk Series, University of Oxford
+## July 14th 2016
+
+###Notes:
+- notes.pdf 
+- slides.pdf 
+
+###Code:
+- LSTM_Workshop.ipynb : Jupyter notebook with live demo code
+- LSTM_Workshop.html : printed version of the above
+- mg.mat : dataset
+- util.py : auxiliary routines
+
+Requirements for running LSTM_Workshop.ipynb:
 - Python 2.7
 - Keras 1.0.5 (https://github.com/fchollet/keras)
 - Jupyter Notebook
