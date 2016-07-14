@@ -8,7 +8,7 @@
 
 ###Code:
 - LSTM_Workshop.ipynb : Jupyter notebook with live demo code
-- LSTM_Workshop.html : printed version of the above
+- LSTM_Workshop.html : printed version of the notebook
 - mg.mat : dataset
 - util.py : auxiliary routines
 
